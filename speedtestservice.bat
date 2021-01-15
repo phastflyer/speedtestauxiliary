@@ -1,5 +1,5 @@
 @echo off
-REM Jay Kruemcke - simple bat file for running speedtest2influx.py from Aiden Gilmartin
+REM Jay Kruemcke - simple bat file for testing speedtest2influx.py from Aiden Gilmartin
 REM Directory for holding speedtest auxiliary files
 cd C:\SpeedtestService
 REM InfluxDB Settings
